@@ -1,4 +1,4 @@
-# rosserial_stm32
+# rosserial_stm32_tungvtt1609
 
 ## Note
 This is a part of [rosserial](https://github.com/ros-drivers/rosserial) repository to communicate with ROS system through a USART for STM32 embedded system.
